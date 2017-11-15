@@ -55,4 +55,4 @@ class App extends React.Component
 render(<App/>, window.document.getElementById("app"));
 
 //inline just because it is useful for commenting and uncommenting the line
-if ('serviceWorker' in navigator) navigator.serviceWorker.register("/sw.js").then(() => console.log("Service worker is registered."));
+if ('serviceWorker' in navigator) navigator.serviceWorker.register("./sw.js").then(() => console.log("Service worker is registered."));
