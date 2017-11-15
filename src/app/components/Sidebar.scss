@@ -1,0 +1,78 @@
+$textColor: #BDAEAE;
+$color: #454545;
+$closeBtnHeight: 40px;
+.Sidebar
+{
+    color: $textColor;
+    background-color: $color;
+    width: 120px;
+    overflow: hidden;
+    .closeBtn
+    {
+        line-height: $closeBtnHeight;
+        width: 100%;
+        height: $closeBtnHeight;
+        text-align: center;
+        cursor: pointer;
+        font-family: 'Monospace', Tahoma, Geneva, Verdana, sans-serif;
+        @include nonselectable;
+        &:hover
+        {
+            color: lighten($textColor, 10%);
+            background-color: complement(lighten($color, 2%));
+        }
+        #hide
+        {
+            @include for-lower-than(550px)
+            {
+                display: none;
+            }
+        }
+    }
+
+    hr {
+        margin:0;
+        border: 1px solid #525252;
+    }
+    @include for-lower-than(550px)
+    {
+        width: 30px;
+    }
+}
+
+.Sidebar.visible
+{
+    animation-name: expand;
+    animation-duration: 0.2s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+}
+
+.Sidebar.invisible
+{
+    display: none;
+}
+
+@keyframes expand
+{
+    0% {
+        position: relative;
+        right: 120px;     
+    }
+    100%{
+        position: relative;
+        right: 0px;
+    }
+}
+
+@-webkit-keyframes expand
+{
+    0% {
+        position: relative;
+        right: 120px;
+    }
+    100%{
+        position: relative;
+        right: 0px;
+    }
+}

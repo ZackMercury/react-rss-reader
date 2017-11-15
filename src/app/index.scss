@@ -1,0 +1,33 @@
+@import 'utils';
+@import 'components/Header';
+@import 'components/Footer';
+@import 'components/components/Article.scss';
+@import 'components/components/FeedSource.scss';
+@import 'components/components/FeedItem.scss';
+@import 'components/Feed';
+@import 'components/Sidebar';
+
+* {
+    margin: 0;
+}
+
+.rightColumn 
+{
+    flex: 1;
+}
+
+.appWrapper
+{
+    @include for-lower-than(320px)
+    {
+        width: 320px;
+    }
+
+    .App
+    {
+        display: flex;
+        width: 100%;
+        height: calc(100% - 30px);
+    }
+}
+

@@ -1,0 +1,19 @@
+$margin: 10px;
+
+.Feed
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 800px;
+    overflow: auto;
+    .centeredImage
+    {
+        display: block;
+        margin: 10px auto;
+    }
+    .inblock
+    {
+        margin-top: $margin;
+        margin-left: $margin;
+        margin-right: $margin;
+    }
+}

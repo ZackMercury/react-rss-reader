@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" >
+<channel>
+<title>The Independent - Travel</title>
+<link>http://www.independent.co.uk/travel/rss</link>
+<description>The Independent - Travel Feed</description>
+<atom:link rel="self" href="http://www.independent.co.uk/travel/rss" />
+<item>
+  <title>British Airways to bring back second meal for long-haul flights</title>
+  <link>http://www.independent.co.uk/travel/news-and-advice/ba-food-flights-menu-second-meal-economy-passengers-return-a8040651.html</link>
+  <description><![CDATA[&apos;We will upgrade catering so that everyone has better snacks and, on longer flights, everyone has a full second meal&apos; — Alex Cruz, British Airways CEO]]></description>
+  <pubDate>Mon, 06 Nov 2017 17:29:11 +0000</pubDate>
+  <guid>a8040651</guid>
+  <author>Simon Calder</author>
+  <dc:creator>Simon Calder</dc:creator>
+  <dc:date>2017-11-06T17:29:11+00:00</dc:date>
+  <media:thumbnail url="https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2017/11/06/16/britishairways-21686536837785.jpg" type="image/jpeg"/>
+  <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/06/16/britishairways-21686536837785.jpg" type="image/jpeg"/>
+  <media:text>Flag carrier: British Airways Boeing 787 at Heathrow  (Picture: British Airways)</media:text>
+</item>
+<item>
+  <title>New £20m Bear Grylls Adventure world lets visitors try their hand at extreme adventuring</title>
+  <link>http://www.independent.co.uk/travel/news-and-advice/bear-grylls-adventure-world-birmingham-nec-high-ropes-zip-wire-indoor-skydiving-a8040621.html</link>
+  <description><![CDATA[The attraction will feature the highest free roam ropes in Europe]]></description>
+  <pubDate>Mon, 06 Nov 2017 16:51:00 +0000</pubDate>
+  <guid>a8040621</guid>
+  <author>Helen Coffey</author>
+  <dc:creator>Helen Coffey</dc:creator>
+  <dc:date>2017-11-06T16:51:00+00:00</dc:date>
+  <media:thumbnail url="https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2017/11/06/16/thebeargryllsadventure-4.jpg" type="image/jpeg"/>
+  <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/06/16/thebeargryllsadventure-4.jpg" type="image/jpeg"/>
+  <media:text>Bear Grylls heli-dropped into Cnicht in Snowdonia to announce the attraction  (Picture: Bear Grylls Adventure)</media:text>
+</item>
+<item>
+  <title>The most welcoming cities in the world, from Singapore to Stockholm</title>
+  <link>http://www.independent.co.uk/travel/news-and-advice/most-welcoming-cities-in-world-friendly-singapore-stockholm-helsinki-san-francisco-a8040016.html</link>
+  <description><![CDATA[A new list ranks cities by their openness to tourists]]></description>
+  <pubDate>Mon, 06 Nov 2017 13:01:00 +0000</pubDate>
+  <guid>a8040016</guid>
+  <author>Helen Coffey</author>
+  <dc:creator>Helen Coffey</dc:creator>
+  <dc:date>2017-11-06T13:01:00+00:00</dc:date>
+  <media:thumbnail url="https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2017/10/25/15/istock-590050726.jpg" type="image/jpeg"/>
+  <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/25/15/istock-590050726.jpg" type="image/jpeg"/>
+</item>
+<item>
+  <title>How Tel Aviv became the vegan capital of the world</title>
+  <link>http://www.independent.co.uk/travel/middle-east/vegan-food-tel-aviv-best-restaurants-israel-vegetarian-friendly-port-capital-meshek-barzilay-orna-a8036081.html</link>
+  <description><![CDATA[With 400 vegan and vegetarian restaurants, Tel Aviv isn&apos;t joking when it calls itself the plant-based capital of the world, reports Jasmine Phull]]></description>
+  <pubDate>Mon, 06 Nov 2017 10:34:00 +0000</pubDate>
+  <guid>a8036081</guid>
+  <author>Jasmine Phull</author>
+  <dc:creator>Jasmine Phull</dc:creator>
+  <dc:date>2017-11-06T10:34:00+00:00</dc:date>
+  <media:thumbnail url="https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2017/11/03/17/tacafe-kaymak.jpg" type="image/jpeg"/>
+  <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/03/17/tacafe-kaymak.jpg" type="image/jpeg"/>
+  <media:text>Vegetarian Cafe Kaymak sources its ingredients from all around the world  (Picture: Cafe Kaymak)</media:text>
+</item>
+<item>
+  <title>Italy holds first ever Tiramisu World Cup competition</title>
+  <link>http://www.independent.co.uk/travel/news-and-advice/italy-tiramisu-world-cup-competition-veneto-friuli-treviso-a8039661.html</link>
+  <description><![CDATA[The competition sought to find the best version of the famous dessert]]></description>
+  <pubDate>Mon, 06 Nov 2017 10:04:00 +0000</pubDate>
+  <guid>a8039661</guid>
+  <author>Helen Coffey</author>
+  <dc:creator>Helen Coffey</dc:creator>
+  <dc:date>2017-11-06T10:04:00+00:00</dc:date>
+  <media:thumbnail url="https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2017/11/06/09/tiramisu-world-cup-6.jpg" type="image/jpeg"/>
+  <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/06/09/tiramisu-world-cup-6.jpg" type="image/jpeg"/>
+  <media:text>A competitor puts on the last touches  (Picture: AFP/Getty)</media:text>
+</item>
+<item>
+  <title>EasyJet reports nearly 10% jump in passengers during October</title>
+  <link>http://www.independent.co.uk/news/business/news/easyjet-passenger-numbers-rise-budget-airline-flights-ryanair-october-air-berlin-a8039526.html</link>
+  <description><![CDATA[The London-listed company, which recently announced that it was paying around £35m for bankrupt Air Berlin&apos;s slots at the German capital&apos;s Tegel airport, transported just over 7.5 million passengers in October]]></description>
+  <pubDate>Mon, 06 Nov 2017 08:33:00 +0000</pubDate>
+  <guid>a8039526</guid>
+  <author>Josie Cox</author>
+  <dc:creator>Josie Cox</dc:creator>
+  <dc:date>2017-11-06T08:33:00+00:00</dc:date>
+  <media:thumbnail url="https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2017/10/28/21/easyjet.jpg" type="image/jpeg"/>
+  <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/28/21/easyjet.jpg" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,19 @@
+$font-color: white;
+
+.FeedSource
+{
+    cursor: pointer;
+    @include nonselectable;
+    span
+    {
+        font-size: 12px;
+        -webkit-appearance: none;
+        color: $font-color;
+        text-decoration: underline;
+        &:active
+        {
+            color: darken($font-color, 20%);
+            text-decoration: none;
+        }
+    }
+}

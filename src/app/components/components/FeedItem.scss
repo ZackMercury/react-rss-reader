@@ -1,0 +1,36 @@
+
+.FeedItem
+{
+    margin-top: 10px;
+    text-align: center;
+    .name
+    {
+        font-size: 10px;
+        font-family: 'Monospace', Tahoma, Geneva, Verdana, sans-serif;
+        @include for-lower-than(550px)
+        {
+            display: none;
+        }
+    }
+    .icon
+    {
+        width: 24px;
+        height: 24px;
+    }
+
+    .full-title
+    {
+        @include for-lower-than(550px)
+        {
+            display: none;
+        }
+    }
+
+    .short-title{
+        display: none;
+        @include for-lower-than(550px)
+        {
+            display: initial;
+        }
+    }
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" >
+<channel>
+<title>The Independent - Environment</title>
+<link>http://www.independent.co.uk/environment/rss</link>
+<description>The Independent - Environment Feed</description>
+<atom:link rel="self" href="http://www.independent.co.uk/environment/rss" />
+<item>
+  <title>I explored the Antarctic deep seas for Blue Planet II – and it was like going back 350 million years</title>
+  <link>http://www.independent.co.uk/environment/nature/blue-planet-ii-antarctic-deep-seas-a8036111.html</link>
+  <description><![CDATA[Diving in the Antarctic is a journey back in time, to glimpse what ancient ocean ecosystems were once like]]></description>
+  <pubDate>Mon, 06 Nov 2017 11:59:00 +0000</pubDate>
+  <guid>a8036111</guid>
+  <author>Jon Copley</author>
+  <dc:creator>Jon Copley</dc:creator>
+  <dc:date>2017-11-06T11:59:00+00:00</dc:date>
+  <media:thumbnail url="https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2017/11/03/16/antarctic-1.jpg" type="image/jpeg"/>
+  <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/03/16/antarctic-1.jpg" type="image/jpeg"/>
+</item>
+<item>
+  <title>2017 to be the hottest year on record that wasn&amp;apos;t affected by El Nino</title>
+  <link>http://www.independent.co.uk/environment/2017-hottest-year-on-record-el-nino-no-effect-climate-change-global-warming-fossil-fuels-a8039796.html</link>
+  <description><![CDATA[The last three years have been the hottest ever to be recorded]]></description>
+  <pubDate>Mon, 06 Nov 2017 11:11:00 +0000</pubDate>
+  <guid>a8039796</guid>
+  <author>Andrew Griffin</author>
+  <dc:creator>Andrew Griffin</dc:creator>
+  <dc:date>2017-11-06T11:11:00+00:00</dc:date>
+  <media:thumbnail url="https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2017/11/06/11/hotweather.jpg" type="image/jpeg"/>
+  <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/06/11/hotweather.jpg" type="image/jpeg"/>
+  <media:text>Gordon Litchfield from Wilpoorinna sheep and cattle station stands by dead horses and cattle on his property June 7, 2005 in Leigh Creek, Australia  (Picture: Ian Waldie/Getty Images)</media:text>
+</item>
+<item>
+  <title>BBC axed science reporting course despite concerns over &amp;apos;false balance&amp;apos; on issues like climate change, doc reveals</title>
+  <link>http://www.independent.co.uk/news/science/bbc-science-reporting-course-climate-change-false-balance-issues-environment-desmog-uk-documents-a8039621.html</link>
+  <description><![CDATA[Revelation comes weeks after Today programme forced to apologise for failing to challenge climate change denier Lord Lawson&apos;s assertion that global temperatures have fallen]]></description>
+  <pubDate>Mon, 06 Nov 2017 09:46:00 +0000</pubDate>
+  <guid>a8039621</guid>
+  <author>Ben Chapman</author>
+  <dc:creator>Ben Chapman</dc:creator>
+  <dc:date>2017-11-06T09:46:00+00:00</dc:date>
+  <media:thumbnail url="https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2014/09/02/19/web-nigel-lawson-getty.jpg" type="image/jpeg"/>
+  <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/09/02/19/web-nigel-lawson-getty.jpg" type="image/jpeg"/>
+  <media:text>Lord Lawson, chairman of Global Warming Policy Foundation  (Picture: Getty)</media:text>
+</item>
+<item>
+  <title>Trump&amp;apos;s golf resort in Scotland &amp;apos;could face severe flooding&amp;apos; due to climate change, study warns</title>
+  <link>http://www.independent.co.uk/environment/donald-trump-golf-course-aberdeenshire-sea-levels-climate-change-coastal-erosion-a8038591.html</link>
+  <description><![CDATA[Research predicts coastline will recede by tens of metres by 2050]]></description>
+  <pubDate>Sun, 05 Nov 2017 14:48:02 +0000</pubDate>
+  <guid>a8038591</guid>
+  <author>Caroline Mortimer</author>
+  <dc:creator>Caroline Mortimer</dc:creator>
+  <dc:date>2017-11-05T14:48:02+00:00</dc:date>
+  <media:thumbnail url="https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2017/11/05/13/donald-trump-golf.jpg" type="image/jpeg"/>
+  <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/05/13/donald-trump-golf.jpg" type="image/jpeg"/>
+  <media:text>Donald Trump playing at his golf course at its grand opening in 2012  (Picture: Getty Images)</media:text>
+</item>
+</channel>
+</rss>

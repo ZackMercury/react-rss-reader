@@ -1,0 +1,44 @@
+$color:  #1fad0e;
+$title-color: #ffe6d5;
+$height: 41px;
+$icon-size: 24px;
+$offset: 5px;
+
+
+.Header
+{
+    height: $height;
+    background-color: $color;
+    display: flex;
+
+    .iconContainer, .menuBtnContainer
+    {
+        width: $icon-size;
+        height: $icon-size;
+    }
+
+    div
+    {
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    .title 
+    {
+        margin-left: auto;
+        margin-right: $offset;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: $title-color;
+    }
+
+    .iconContainer
+    {
+        margin-right: $offset;
+    }
+
+    .menuBtnContainer
+    {
+        margin-left: $offset;
+        cursor: pointer;
+    }
+}
