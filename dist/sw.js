@@ -9,10 +9,10 @@ self.addEventListener('install', function(e){
                 console.log("[Service Worker] Precaching App Shell");
 
                 cache.addAll([
-                    "/",
-                    "/index.html",
-                    "/app/bundle.js",
-                    "/app/bundle.css"
+                    "./",
+                    "./index.html",
+                    "./app/bundle.js",
+                    "./app/bundle.css"
                 ]);
             })
     );
