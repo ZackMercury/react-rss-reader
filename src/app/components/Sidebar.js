@@ -49,7 +49,7 @@ class Sidebar extends React.Component
                     <FeedSource fullTitle="Economics" shortTitle="Ecnm" src="rss/economist-economics.xml" onClick={ this.props.onSourceChange.bind(this) } />
                     <FeedSource fullTitle="Science & Technology" shortTitle="S&T" src="rss/economist-science-technology.xml" onClick={ this.props.onSourceChange.bind(this) } />
                 </FeedItem>
-                <FeedItem name="The Independent" icon="http://www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/favicon.ico">
+                <FeedItem name="The Independent" icon="https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2016/11/18/09/indy-logo.png">
                     <FeedSource fullTitle="News" shortTitle="Nws" src="rss/independent-news.xml" onClick={ this.props.onSourceChange.bind(this) } />
                     <FeedSource fullTitle="Environment" shortTitle="Env" src="rss/independent-environment.xml" onClick={  this.props.onSourceChange.bind(this) } />
                     <FeedSource fullTitle="Sport" shortTitle="Sprt" src="rss/independent-sport.xml" onClick={ this.props.onSourceChange.bind(this) } />
